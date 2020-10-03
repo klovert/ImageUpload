@@ -1,3 +1,3 @@
 # ImageUpload
 
-App ImageUpload with made JavaScript
+App ImageUpload made with JavaScript
